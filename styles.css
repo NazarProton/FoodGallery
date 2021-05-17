@@ -121,7 +121,7 @@ body {
   border-radius: 90%;
   background-color: transparent;
   cursor: pointer;
-  background-image: url("/icon-prev.svg");
+  background-image: url("icon-prev.svg");
   background-position: center;
   background-size: 70%;
   background-repeat: no-repeat;
@@ -139,7 +139,7 @@ body {
   border-radius: 90%;
   background-color: transparent;
   cursor: pointer;
-  background-image: url("/icon-next.svg");
+  background-image: url("icon-next.svg");
   background-position: center;
   background-size: 70%;
   background-repeat: no-repeat;
@@ -170,7 +170,7 @@ body {
   cursor: pointer;
   transition: background-color var(--animation-duration) var(--timing-function);
   outline: none;
-  background-image: url("/icon-close.svg");
+  background-image: url("icon-close.svg");
   background-position: center;
   background-size: 60%;
   background-repeat: no-repeat;
